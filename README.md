@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Solomon Tetteh Sackey
 - 👀 I’m interested in Mobile and Web Development
-- 🌱 I’m currently learning Ruby on rails
+- 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on Web And Mobile Projects
 
 <!---
